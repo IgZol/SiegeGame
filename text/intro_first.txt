@@ -1,0 +1,12 @@
+Unit location: designated coordinates.
+Other signal sources in its vicinity: negative.
+Test results: unit is functional.
+Startup of the prototype's on-board computer in
+3...
+2...
+1...
+Computer online.
+Error.
+Connection lost.
+Dispatching gathering detachment.
+Opening fire if necessary.

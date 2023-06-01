@@ -1,0 +1,8 @@
+Upon visual contact all units opened fire.
+Probability that the external influence is controlling the units: 99.99995%.
+Primary goal:
+terminating the malicious influence in the other units and ensuring their autonomy.
+Probability of achieving the primary goal directly: 0.00000%.
+Inadequate inner apparatus.
+Primary goal updated.
+Targets determined. Proceeding to first location's coordinates.

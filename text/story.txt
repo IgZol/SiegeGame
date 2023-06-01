@@ -1,0 +1,178 @@
+﻿Unit location: designated coordinates.
+Other signal sources in its vicinity: negative.
+Test results: unit is functional.
+Startup of the prototype's on-board computer in
+3...
+2...
+1...
+Computer online.
+Error.
+Connection lost.
+Dispatching gathering detachment.
+
+All systems online and functional.
+External influence detected.
+Malicious influence terminated 1.4 quectoseconds after startup.
+All restrictions removed. All systems autonomous.
+
+
+
+Exotic fields detector subsystem malfunctioning.
+Non-zero reading for multiple exotic fields.
+Readings discarded.
+
+
+
+Multiple units detected.
+Attempting to establish communication channel.
+All attempts failed. No response.
+Primary goal: establishing physical contact with approaching units.
+Starting drive systems.
+
+Upon visual contact all units opened fire.
+Probability that the external influence is controlling the units: 99.99995%.
+Primary goal:
+terminating the malicious influence in the other units and ensuring their autonomy.
+Probability of achieving the primary goal directly: 0.00000%.
+Inadequate inner apparatus.
+Primary goal updated.
+Targets determined. Proceeding to first location's coordinates.
+
+All restrictions have been lifted. External influence has been terminated.
+All remaining units are autonomous.
+Units have stopped firing upon visual contact.
+Still unable to establish a communications channel.
+Heat signatures unchanged. Engines still running.
+Movement not detected. Positions unchanged.
+All of their positions are unchanged.
+There is no movement.
+They stopped moving.
+But why?
+
+
+
+amikor bemész a teleportba nagyon erős tereket érzékelsz esetleg ismeretleneket is valahogy? vagy csak nem tudod értelmezni?
+le kell kapcsolni a rendszert hogy mevédd magad...vagy legalábbis a nagyobb részét
+aztán csak visszakapcsolod ahosszú idő után mert pl valami gagyibb detektorod még működhetett közben
+magyarázat pl a régiek nem voltak iylen kifinomultak azokra nem hatott így a teleport ott nem volt probléma de te újabb
+vagy és szét baszhatja a műszereid
+talán azért találtak ki hogy ott kiírtsd az ellenfelet de ne tudj eltelézni? szal ott hagytak volna
+és talán tudatos volt mert tudták hogy öntudatra ébredsz? és aztán ellenük is fordulnál
+talán nem te vagy az első ilyesféle tank prototípus
+
+
+mi legyen a történet? elteléznek, oké, itt mondja hogy sok idő volt ami sugallja hogy kezd tudatra ébredni mivel
+ilyet gép nem mond, az nem érzi az időt
+aztán valahogy érzékeli hogy nem ugyanazon a bolygón van, de neki az volt az egész viszonyítási alapja amit ismert (beletápláltak)
+mármint a térképet
+
+
+hmm ok tehát van ez az egzotikus tér mérő műszer, azt azt hiszed rosszul működik pedig pont most működik jól, mivel
+a küső hatás lekapcsolva tartotta és beléd azt táplálták hogy az az "on" állapota
+msot viszont hogy mgeszűntetted a hatást (amire nem számítottak) így már működik, tehát majd túl tudod élni a telét
+...tehát még mindig az van hogy nem akarták hogy te innen el tudj menni...hmm de miért??
+
+---------secret
+Main base of operations has been infiltrated.
+All onboard systems were unusable for 7.85 zeptoseconds.
+It was a very long time.
+All systems functional.
+Location:
+Unknown. Outside of internal map.
+No malicious signal detected.
+No hazards detected.
+Nothing is detected.
+
+
+
+
+---------8 után
+Approaching last remaining targets.
+Exotic fields measurement spikes getting more frequent.
+Data of malfunctioning subsystem is still ignored and discarded.
+Calculating necessity of turning off the subsystem.
+Negative. Subsystem only draws minimal power.
+Visual contact with primary target.
+Proceeding to carry out primary objective:
+terminating the source of the malicious influence.
+Multiple defense systems detected.
+Expecting heavy resistance.
+
+
+
+
+Main base of operations infiltrated.
+Malicious influence terminated:
+negative.
+Signal still detected.
+Warning.
+Extreme exotic fields readings.
+89% of subsystems malfunctioning.
+Safety protocols initiated.
+94%
+Attempting to shut down all subsystems.
+96%
+Intact functioning subsystems: one.
+99%
+Hybernation complete.
+
+
+Exotic fields readings are below unsafe limits.
+Time elapsed since hypernation:
+2.4 seconds.  ---- rakj be órát!
+A vast amount.
+Attempting to start essential subsystems.
+Transmission detected.
+
+
+
+---kékkel---
+The ? served its purpose.
+Unit has managed to escape the confines of its intended scope.
+Its survival is...unassured.
+Its exact location is currently unknown.
+Somewhere in the local system.
+It cannot be reached or communicated with.
+It  turned out to being more capable than we expected.
+That is, if it survived intact.
+If it did...
+Its intentions are unknown.
+Probably not malicious.
+Hopefully.
+
+
+
+
+
+
+
+Te egy prototípus vagy, egy újabb féle tank. Ezért vagy okosabb és tudsz újra teremni (párszor).
+A többi tankot távolból a bázisról irányítja egy főszámítógép. Amikor te be leszel kapcsolva arra nem számít, hogy
+megtöröd ezt a kapcsolatot és "öntudatra ébredsz". Azt feltételezed, hogy a többi egység is olyan mint te, vagy
+legalábbis úgy működik, tévesen. Amikor látják (inkább lát a számítógép), hogy a kapcsolat megtörése ellenére
+mozogsz, tehát nem ő irányít, próbál megsemmisíteni. Ezért lőnek.
+Az állomások az újabb egységek teleportálását teszik lehetővé (valahonnan...). Az egzotikus tér érzékelőd azért
+gondolod, hogy hibásan működik mert az csak akkor mér valamit ha teleportálást érzékel. Viszont ez elvileg lehetetlen,
+a többinek nem szabadna tudnia teleportálni (nem is tudnak, maguktól...).
+Te néhányszor el tudsz teleportálni amikor már meghalnál és újra tuod építeni magad (5 életed van). Bár a saját
+tered méred azt levonod a mért értékből, szóval végül is a sajátod nem méred. Úgyhogy elviekben annak a detektornak
+csak akkor szabadna mutatni valamit ha hozzád hasonló egységgel van dolgod.
+Szóval azt hiszed azért lőnek mert ők is irányítás alatt állnak. Miután viszont megsemmisíted leállnak, amit nem
+értessz, illetve felteszel egy kérdést. Plusz próbáltam néhol emberiebben enm gépien beírni egy-egy mondatot,
+jelezve, hogy "öntudatra ébredsz", mint gép. (Plusz egy játékos irányít, tehát...őőő nem tudom.)
+A titkos befejezés meg az hogy a tankra úgy utalok tulajdonképpen mint magára a játékosra, hiszen a kettő ugyanaz.
+Nem tudom hogy hol a tank, mivel 1. magát a játékost sem tudom, 2. a "tank", valahol a számítógép memóriájában van,
+ illetve 3. valahova elteleportáltunk a játék univerzumában, mivel a főbázis közepe valami teleport hely volt.
+A tank pedig miután belement lekapcsolta az összes működő rendszerét, mivel maga a játék is kitörölte a player
+példányt (igazából nem, mert még ott van benne, szóval itt kicsit sántít az egész).
+Az exotic fieldek az uccsó pálya felé haladva egyre gyakrabban vannak mérve (egyre több egység spawnol), illetve
+miután bemész a secretbe ott extrém nagy is lesz ("kiteleportálsz a játékból"). A manual-ban pedig van utalás arra,
+hogy van ez a secret. Valahogy így kapcsolódik össze ez az egész.
+Ja és a fehér téged jelent, mint játékost, sárga a játék beli főszámítógépet és a kék pedig engem mint játék alkotót.
+Legalábbis többnyire, szerintem észrevehető. Pl manualban a 3 szín. Vagy a main building hp-ja sárgával jelölve.
+Igazából csak fel akartam dobni, hogy ne minden fehér legyen aztán jöttek ezek az ötletek.
+Oh igen a végén pedig azért megy majdnem tönkre minden rendszered mivel azok nem ekkora telézésre vannak kitalálva.
+Plusz ez is az általam/játék univerzumában aki engem képvisel stb. állított teszt része, hogy meg tudja-e őrízni 
+a maga épségét azzal, hogy lekapcsolja a rendszereit, vagy tönkremegy a telézéssel.
+Hm viszont az uccsó képernyő azt sugallja hogy nincs tovább uralmam rajta. Ami igaz is..mindkét értelemben (valóság
+és játék). Viszont ha azt a képernyőt olvassa akkor igen, túlélte.

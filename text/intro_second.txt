@@ -1,0 +1,13 @@
+All systems online and functional.
+External influence detected.
+Malicious influence terminated 1.4 quectoseconds after startup.
+All restrictions removed. All systems autonomous.
+Multiple units detected.
+Exotic fields detector sub-system malfunctioning:
+non-zero reading on multiple exotic fields.
+Readings discarded.
+Units incapable of producting such fields.
+Attempting to establish communications channel.
+All attempts failed. No response.
+Primary goal: establishing physical contact with approaching units.
+Starting drive systems.

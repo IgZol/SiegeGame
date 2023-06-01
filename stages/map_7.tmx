@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.0" orientation="orthogonal" renderorder="right-down" width="33" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="17">
+ <tileset firstgid="1" name="map_7" tilewidth="16" tileheight="16" tilecount="8" columns="8">
+  <image source="siege_tileset.png" width="128" height="16"/>
+  <tile id="0" type="wall"/>
+  <tile id="1" type="water"/>
+  <tile id="2" type="lava"/>
+  <tile id="3" type="dirt"/>
+  <tile id="4" type="dirt"/>
+  <tile id="5" type="glass"/>
+  <tile id="6" type="glass"/>
+  <tile id="7" type="glass"/>
+ </tileset>
+ <layer id="1" name="tiles" width="33" height="20">
+  <data encoding="csv">
+1,1,1,5,5,1,5,5,5,5,5,4,5,5,5,5,1,1,1,1,1,5,5,5,5,1,1,1,3,1,1,1,1,
+1,1,5,5,5,1,5,5,5,5,5,5,1,5,5,5,5,5,1,5,5,5,4,5,5,5,5,3,3,1,1,1,1,
+1,1,5,1,1,1,1,1,5,5,5,5,1,5,5,4,5,5,1,5,5,5,5,3,5,5,3,3,1,1,1,1,1,
+1,5,4,5,5,1,5,5,5,5,1,1,1,1,1,5,5,5,5,5,4,5,3,3,3,5,3,3,3,3,3,3,3,
+5,5,5,5,5,5,5,4,5,5,5,5,1,5,5,5,4,5,5,5,3,3,3,3,3,5,3,3,1,1,1,1,3,
+5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,5,3,1,1,1,1,1,1,
+1,5,5,5,5,5,5,5,5,5,5,5,5,4,1,5,5,5,5,5,5,1,3,5,4,5,5,1,1,1,1,1,1,
+5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,5,5,5,1,1,1,1,1,1,1,
+2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,1,5,5,5,5,1,1,1,1,1,1,1,1,
+2,2,1,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,5,5,5,5,5,1,1,1,1,1,1,1,
+2,2,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5,4,5,1,5,5,1,5,5,5,1,1,1,1,1,1,1,
+2,2,2,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,4,5,5,1,1,1,1,1,1,
+2,2,2,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,5,5,1,1,5,5,5,1,5,1,1,1,1,1,1,
+1,2,5,5,5,5,5,5,1,5,4,5,5,1,5,5,5,5,1,5,5,1,4,5,5,5,5,5,1,1,1,1,1,
+1,1,5,5,5,1,5,5,5,5,5,1,5,5,5,5,1,5,5,5,5,1,1,5,5,5,5,5,5,1,1,1,5,
+1,1,1,1,1,1,1,1,5,1,5,5,5,5,1,1,1,5,1,1,1,1,5,4,5,5,1,5,5,5,5,4,5,
+1,5,5,5,5,5,1,1,1,1,1,1,1,1,1,5,5,5,1,5,5,1,1,5,1,1,1,5,5,5,5,5,5,
+5,5,5,5,4,5,5,5,5,5,5,1,1,5,5,4,5,5,1,5,1,1,1,5,1,5,5,5,5,1,1,1,1,
+5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,1,1,1,4,5,1,1,5,4,5,5,1,5,5,1,1,1,
+5,5,5,5,1,1,5,5,5,1,5,5,5,5,1,5,5,5,5,5,1,1,1,5,5,5,4,5,5,5,5,1,1
+</data>
+ </layer>
+ <objectgroup id="2" name="objects">
+  <object id="1" name="station_place" x="471.833" y="313.125">
+   <point/>
+  </object>
+  <object id="2" name="station_place" x="72" y="8">
+   <point/>
+  </object>
+  <object id="3" name="station_place" x="216.75" y="72.7917">
+   <point/>
+  </object>
+  <object id="4" name="station_place" x="327.917" y="264.292">
+   <point/>
+  </object>
+  <object id="5" name="player_start" x="23.3333" y="295.333">
+   <point/>
+  </object>
+  <object id="6" name="spawn" x="184" y="312">
+   <point/>
+  </object>
+  <object id="7" name="spawn" x="391.333" y="231.333">
+   <point/>
+  </object>
+  <object id="8" name="spawn" x="360" y="151.333">
+   <point/>
+  </object>
+  <object id="15" name="spawn" x="454.667" y="252.666">
+   <point/>
+  </object>
+  <object id="9" name="spawn" x="294.667" y="120">
+   <point/>
+  </object>
+  <object id="10" name="spawn" x="24.6667" y="87.3333">
+   <point/>
+  </object>
+  <object id="11" name="spawn" x="150.667" y="22.6667">
+   <point/>
+  </object>
+  <object id="12" name="spawn" x="263.333" y="38.6667">
+   <point/>
+  </object>
+  <object id="13" name="spawn" x="376.667" y="7.33333">
+   <point/>
+  </object>
+  <object id="14" name="spawn" x="56" y="215.333">
+   <point/>
+  </object>
+  <object id="16" name="spawn" x="249.333" y="218.666">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
